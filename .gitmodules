@@ -1,0 +1,3 @@
+[submodule "submodule-testing-b"]
+	path = submodule-testing-b
+	url = git@github.com:esbena/submodule-testing-b.git
